@@ -1,0 +1,6 @@
+{
+  "name": "AstroScent — Cosmic Luxury Perfume",
+  "description": "Astrology-inspired luxury fragrance house connecting zodiac archetypes, celestial alchemy, interactive galaxy exploration, and bespoke personal scent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
